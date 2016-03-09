@@ -1,0 +1,17 @@
+{
+    "name": "baidutranslator.liu-xiao-guo",
+    "description": "description of baidutranslator",
+    "architecture": "all",
+    "title": "baidutranslator",
+    "hooks": {
+        "baidutranslator": {
+            "apparmor": "baidutranslator.apparmor",
+            "desktop":  "baidutranslator.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-14.10"
+}
+
+

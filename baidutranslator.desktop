@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=baidutranslator
+Exec=qmlscene $@ Main.qml
+Icon=baidutranslator.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
